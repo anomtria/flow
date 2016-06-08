@@ -5,7 +5,7 @@
 
 #include <QSerialPort>
 
-#define  NUM_KANAL  10
+#define  NUM_KANAL  12
 
 struct ser_kom{
     char portname[16];
